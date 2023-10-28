@@ -1,6 +1,3 @@
-To create a README file for your YouTube Video Chatbot GitHub repository, follow the template provided below:
-
----
 
 # YouTube Video Chatbot
 
